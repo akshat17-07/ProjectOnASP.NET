@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aksha\\OneDrive\\Desktop\\Game Theory Summer\\3 Group Simulation\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj": {}
+    "C:\\Users\\aksha\\OneDrive\\Desktop\\ASP.NET\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aksha\\OneDrive\\Desktop\\Game Theory Summer\\3 Group Simulation\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj": {
+    "C:\\Users\\aksha\\OneDrive\\Desktop\\ASP.NET\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aksha\\OneDrive\\Desktop\\Game Theory Summer\\3 Group Simulation\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj",
+        "projectUniqueName": "C:\\Users\\aksha\\OneDrive\\Desktop\\ASP.NET\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj",
         "projectName": "BulkyBookWeb",
-        "projectPath": "C:\\Users\\aksha\\OneDrive\\Desktop\\Game Theory Summer\\3 Group Simulation\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj",
+        "projectPath": "C:\\Users\\aksha\\OneDrive\\Desktop\\ASP.NET\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj",
         "packagesPath": "C:\\Users\\aksha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aksha\\OneDrive\\Desktop\\Game Theory Summer\\3 Group Simulation\\BulkyBook\\BulkyBookWeb\\obj\\",
+        "outputPath": "C:\\Users\\aksha\\OneDrive\\Desktop\\ASP.NET\\BulkyBook\\BulkyBookWeb\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aksha\\AppData\\Roaming\\NuGet\\NuGet.Config",
