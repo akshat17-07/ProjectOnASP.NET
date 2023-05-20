@@ -1,9 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\BulkyBookWeb",
-    "\\BulkyBookWeb\\models"
+    "\\BulkyBookWeb"
   ],
-  "SelectedNode": "\\BulkyBookWeb\\BulkyBookWeb.csproj",
+  "SelectedNode": "\\BulkyBookWeb\\appsettings.json",
   "PreviewInSolutionExplorer": false
 }
