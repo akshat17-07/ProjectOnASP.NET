@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "u3/z+4AbyD0mgQZOcNDDlxkAHu3wwv16ZghA+g59+SI=",
+  "Hash": "JbLacp8PZfdoCuFH1SvKhyfwPR4hGbwPOdy7YECOhM4=",
   "Source": "ControsoCrafts.WebSite",
   "BasePath": "_content/ControsoCrafts.WebSite",
   "Mode": "Default",
@@ -66,6 +66,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\aksha\\OneDrive\\Desktop\\ASP.NET\\ControsoCrafts\\ControsoCrafts.WebSite\\wwwroot\\data\\products.json",
+      "SourceId": "ControsoCrafts.WebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aksha\\OneDrive\\Desktop\\ASP.NET\\ControsoCrafts\\ControsoCrafts.WebSite\\wwwroot\\",
+      "BasePath": "_content/ControsoCrafts.WebSite",
+      "RelativePath": "data/products.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\data\\products.json"
     },
     {
       "Identity": "C:\\Users\\aksha\\OneDrive\\Desktop\\ASP.NET\\ControsoCrafts\\ControsoCrafts.WebSite\\wwwroot\\favicon.ico",

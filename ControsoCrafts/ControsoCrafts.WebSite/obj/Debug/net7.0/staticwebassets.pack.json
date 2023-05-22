@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "C:\\Users\\aksha\\OneDrive\\Desktop\\ASP.NET\\ControsoCrafts\\ControsoCrafts.WebSite\\wwwroot\\data\\products.json",
+      "PackagePath": "staticwebassets\\data\\products.json"
+    },
+    {
       "Id": "C:\\Users\\aksha\\OneDrive\\Desktop\\ASP.NET\\ControsoCrafts\\ControsoCrafts.WebSite\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
