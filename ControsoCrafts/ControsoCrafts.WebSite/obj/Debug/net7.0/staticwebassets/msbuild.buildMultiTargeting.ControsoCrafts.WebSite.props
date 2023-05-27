@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ControsoCrafts.WebSite.props" />
+</Project>
